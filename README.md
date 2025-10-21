@@ -1,5 +1,5 @@
-# अन्तः अस्ति प्रारम्भ।
-
+# Hey, Im Surya 
+I'm recently working on Flixo an discord bot.
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HaD5sYEj8w) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nobita.xyz.7006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaverma902@gmail.com) 
