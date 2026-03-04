@@ -26,7 +26,7 @@
 
 # Terminal
 
-```bash
+```bash id="a1t2h"
 > initializing developer profile...
 > loading flixo ecosystem...
 > welcome, nobita
@@ -34,13 +34,33 @@
 
 ---
 
+# Matrix Mode
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+
 # Discord Presence
 
-<p align="center">
+<div align="center">
 
 <img src="https://lanyard.cnrad.dev/api/1380026050104397825?theme=dark&bg=0d1117&borderRadius=20px&animated=true"/>
 
-</p>
+</div>
+
+---
+
+# Discord Server
+
+<div align="center">
+
+[![Discord](https://discord.com/api/guilds/1380026050104397825/widget.png?style=banner2)](https://discord.gg/Zx6C6VN5Rk)
+
+</div>
 
 ---
 
@@ -48,7 +68,7 @@
 
 <div align="center">
 
-```txt
+```txt id="d91rt"
 Developer   Nobita
 Role        Discord Bot Developer
 Focus       Backend Systems & Automation
@@ -121,9 +141,13 @@ Next generation Discord bot built for performance and automation.
 
 ---
 
-# Activity Graph
+# 3D Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realnobita&theme=tokyo-night&hide_border=true"/>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realnobita&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -131,7 +155,7 @@ Next generation Discord bot built for performance and automation.
 
 <div align="center">
 
-```bash
+```bash id="z82yt"
 $ run dev-quote
 
 "When debugging, novices insert corrective code;
