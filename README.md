@@ -1,22 +1,112 @@
-# Hey, Im Surya 
-I'm recently working on Flixo an discord bot this bot is on discord.
+<div align="center">
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zx6C6VN5Rk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shubbu1660?igsh=NnYxbXQwNHpsdzBy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:realnobita.xyz@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=200&section=header&text=Nobita&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=realnobita&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realnobita&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=5865F2&center=true&vCenter=true&width=650&lines=Discord+Bot+Developer;Backend+Developer;Creator+of+Flixo;Automation+Tools+Builder"/>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=realnobita&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=realnobita&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧠 About Me
+
+```txt
+Name      Nobita
+Role      Discord Bot Developer
+Focus     Backend Systems & Automation
+Project   Flixo Discord Bot
+```
+
+I build powerful **Discord bots**, backend systems and automation tools designed for performance and scalability.
+
+My goal is to create tools that make Discord servers smarter, faster and easier to manage.
+
+---
+
+# 🤖 Main Project
+
+## Flixo Discord Bot
+
+Flixo is a modern Discord bot built with scalability and performance in mind.
+
+Features
+
+Advanced music system
+Server moderation tools
+Automation utilities
+Optimized architecture
+
+Support Server
+https://discord.gg/Zx6C6VN5Rk
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://discord.gg/Zx6C6VN5Rk">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/shubbu1660">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:realnobita.xyz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,mongodb,mysql,sqlite,gcp,vercel,netlify,github,ps"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=realnobita&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=realnobita&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnobita&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realnobita&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+# 💬 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+---
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=realnobita&icon=5&color=6"/>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&section=footer"/>
