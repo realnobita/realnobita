@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://nobita.flixobot.in">
+<a href="https://flixobot.in">
 <img src="https://img.shields.io/badge/Portfolio-nobita.flixobot.in-000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -67,7 +67,6 @@ Developer   Nobita
 Role        Discord Bot Developer
 Focus       Backend Systems & Automation
 Main Bot    Flixo
-Portfolio   nobita.flixobot.in
 ```
 
 </div>
